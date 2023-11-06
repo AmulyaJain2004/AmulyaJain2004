@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++ Programming Languages.**
+- 🌱 I’m currently learning **C, C++ Programming Languages, Ubuntu Linux commands and Bash Shell Scripting.**
 
 - 👯 I’m looking to collaborate on **C Programming Language.**
 
-- 🤝 I’m looking for help with **C and C++ Programming Languages, Data Structure and Algorithms (DSA).**
+- 🤝 I’m looking for help with **C, C++ Programming Languages, Data Structures and Algorithms (DSA).**
 
 - 📫 How to reach me **Amulya.122439@stu.upes.ac.in**
 
