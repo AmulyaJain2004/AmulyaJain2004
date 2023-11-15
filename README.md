@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" /></p>
 
@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amulyajain2004/amulyajain2004/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake.svg)
 
 ###
