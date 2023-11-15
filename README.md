@@ -54,13 +54,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
 
 <br clear="both">
 
-![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
