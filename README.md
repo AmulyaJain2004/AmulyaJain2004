@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="600" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Amulya Jain</h1>
@@ -25,10 +25,6 @@
 - 📫 How to reach me **Amulya.122439@stu.upes.ac.in**
 
 - ⚡ Fun fact **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astrophysics freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
-
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"  />
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
