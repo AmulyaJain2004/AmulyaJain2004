@@ -58,6 +58,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
 
+<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/f80462828bb3477d95c4678d92f69790.png?r=9xq" width="400" alt="Amulya Jain's Dev Card"/></a>
+
 <br clear="both">
 
 ![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake-dark.svg)
