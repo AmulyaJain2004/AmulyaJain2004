@@ -60,6 +60,8 @@
 
 <a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/devcard.svg" width="400" alt="Amulya Jain's Dev Card"/></a>
 
+[![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
+
 <br clear="both">
 
 ![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake-dark.svg)
