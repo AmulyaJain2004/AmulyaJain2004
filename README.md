@@ -58,7 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
 
-<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/devcard.svg" width="400" alt="Amulya Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/f80462828bb3477d95c4678d92f69790.png?r=79m" width="200" alt="Amulya Jain's Dev Card"/></a>
 
 [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
