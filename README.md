@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++ Programming Languages, Ubuntu Linux commands and Bash Shell Scripting.**
+- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Ubuntu Linux commands and Bash Shell Scripting.**
 
 - 👯 I’m looking to collaborate on **C Programming Language.**
 
