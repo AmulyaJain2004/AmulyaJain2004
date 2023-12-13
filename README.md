@@ -4,7 +4,10 @@
   <img height="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Amulya Jain</h1>
+<h1 align="center">
+  Hi! I'm Amulya Jain 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <h3 align="center" style="color: #FF5733;">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology.</h3>
 
@@ -62,6 +65,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
+
+<p align="center">
+  <a href="https://github.com/amulyajain2004">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amulyajain2004&theme=radical" alt="Amulya Jain GitHub Contribution"/>
+  </a>
+</p>
 
 <a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/f80462828bb3477d95c4678d92f69790.png?r=79m" width="200" alt="Amulya Jain's Dev Card"/></a>
 
