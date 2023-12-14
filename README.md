@@ -43,6 +43,8 @@
 <a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_6jg2kzes1gw" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/amulya[2004]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="amulya[2004]" height="30" width="40" /></a>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -66,11 +68,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
 
-<p align="center">
-  <a href="https://github.com/amulyajain2004">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amulyajain2004&theme=radical" alt="Amulya Jain GitHub Contribution"/>
-  </a>
-</p>
+[![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
 <a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/f80462828bb3477d95c4678d92f69790.png?r=79m" width="200" alt="Amulya Jain's Dev Card"/></a>
 
