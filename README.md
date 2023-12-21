@@ -11,9 +11,9 @@
 
 <h3 align="center" style="color: #FF5733;">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology.</h3>
 
-<h3 align="center" style="color: #33FF33;">🎓 Currently, I'm a first-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
+<h3 align="center" style="color: #33FF33;">🎓 Currently, I'm a first-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
 
-<h3 align="center" style="color: #3399FF;">💻 As a beginner to the world of coding, I'm enthusiastic about honing my skills and embracing new challenges.</h3>
+<h3 align="center" style="color: #3399FF;">💻 As a beginner to the world of coding, I'm enthusiastic about honing my skills and embracing new challenges. Let's Create and Innovate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /> </p>
 
