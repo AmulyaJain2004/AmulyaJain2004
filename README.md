@@ -13,13 +13,13 @@
 
 <h3 align="center" style="color: #33FF33;">🎓 Currently, I'm a first-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
 
-<h3 align="center" style="color: #3399FF;">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together 🚀."</h3>
+<h3 align="center" style="color: #3399FF;">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **C++ & Python Programming Languages, Kali Linux commands and Bash Shell Scripting.**
+- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Kali Linux commands and Bash Shell Scripting.**
 
 - 👯 I’m looking to collaborate on **C Programming Language.**
 
