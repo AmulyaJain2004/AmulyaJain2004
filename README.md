@@ -25,9 +25,9 @@
 
 - 🤝 I’m looking for help with **C, C++ Programming Languages, Data Structures and Algorithms (DSA).**
 
-- 📫 How to reach me **Amulya.122439@stu.upes.ac.in**, **jainamulyawin@gmail.com.**
+- 📫 How to reach me - **Amulya.122439@stu.upes.ac.in**, **jainamulyawin@gmail.com.**
 
-- ⚡ Fun fact **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astrophysics freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
+- ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astrophysics freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My GitHub Statistics: -</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" /></p>
 
