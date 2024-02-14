@@ -19,9 +19,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Kali Linux commands, Bash Shell Scripting, HTML and CSS.**
+- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Kali Linux commands, Bash Shell Scripting, HTML,CSS and JS in Web development.**
 
-- 👯 I’m looking to collaborate on **C Programming Language.**
+- 👯 I’m looking to collaborate on **C and Python Programming Language.**
 
 - 🤝 I’m looking for help with **C, C++ Programming Languages, Data Structures and Algorithms (DSA).**
 
@@ -30,7 +30,7 @@
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astrophysics freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: -</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amulya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amulya jain" height="30" width="40" /></a>
 <a href="https://kaggle.com/amulyajain@2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amulyajain@2004" height="30" width="40" /></a>
@@ -45,7 +45,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: -</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
