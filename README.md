@@ -70,7 +70,8 @@
 
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
-<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/v2/GZ8CKAZs5mx7BrQtwODEr.png?r=psh" width="300" alt="Amulya Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/v2/GZ8CKAZs5mx7BrQtwODEr.png?type=default&r=2a2" width="300" alt="Amulya Jain's Dev Card"/></a>
+
 [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
 <br clear="both">
