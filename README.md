@@ -23,11 +23,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Kali Linux commands, Bash Shell Scripting, HTML,CSS and JS in Web development.**
+- 🌱 I’m currently learning **C, C++ & Python Programming Languages, Kali Linux commands, Bash Shell Scripting, HTML, CSS and JS in Web development.**
 
 - 👯 I’m looking to collaborate on **C and Python Programming Language.**
 
-- 🤝 I’m looking for help with **C, C++ Programming Languages, Data Structures and Algorithms (DSA).**
+- 🤝 I’m looking for help with **C, C++ Programming Languages, Data Structures & Algorithms (DSA).**
 
 - 📫 How to reach me - **Amulya.122439@stu.upes.ac.in**, **jainamulyawin@gmail.com.**
 
