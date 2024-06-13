@@ -25,9 +25,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) and Full Stack Web Development.**
 
-- 👯 I’m looking to collaborate on **C, Python and Web Development Projects.**
+- 👯 I’m looking to collaborate on **C, C++, Python and Web Development Projects.**
 
-- 📫 How to reach me - **Amulya.122439@stu.upes.ac.in**, **jainamulyawin@gmail.com.**
+- 📫 How to reach me - <a href="Amulya.122439@stu.upes.ac.in" target="blank"> **Outlook** </a>, <a href="jainamulyawin@gmail.com" target="blank"> **Gmail** </a> .
   
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
