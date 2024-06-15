@@ -120,6 +120,11 @@
 
 [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
+# My GitHub 3D Profile
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
+
+
 <br clear="both">
 
 ![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake-dark.svg)
