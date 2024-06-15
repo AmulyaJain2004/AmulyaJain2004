@@ -122,8 +122,7 @@
 
 # My GitHub 3D Profile
 
-![3D Contribution Calendar](./profile-3d-contrib/profile-green-animate.svg)
-
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br clear="both">
 
