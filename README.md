@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA) and Full Stack Web Development.**
+- 🌱 I’m currently learning **Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA) and Full Stack Web Development.**
 
 - 👯 I’m looking to collaborate on **C, C++, Python and Web Development Projects.**
 
