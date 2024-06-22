@@ -15,7 +15,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
     <h1>
-      <img src="https://readme-typing-svg.herokuapp.com font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi!..;I'm+Amulya+Jain;This+is..;..my+GitHub..;" alt="Typing SVG"/>     </h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi!..;I'm+Amulya+Jain;This+is..;..my+GitHub..;" alt="Typing SVG"/>     </h1>
 </div>
 
 <h3 align="center" style="color: #FF5733;">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology.</h3>
