@@ -30,6 +30,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
 - 🌱 I’m currently learning **Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA) and Full Stack Web Development.**
