@@ -44,27 +44,26 @@
 
 <h3 align="left">Connect with me: -</h3>
 <p align="left">
-  
-<!-- #----------- LINKEDIN ------------# -->
-<a href="https://www.linkedin.com/in/amulya-jain-b92783287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amulya jain" height="30" width="40" /></a>
-<!-- #----------- KAGGLE ------------# -->
-<a href="https://kaggle.com/amulyajain@2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amulyajain@2004" height="30" width="40" /></a>
-<!-- #----------- INSTAGRAM ------------# -->
-<a href="https://www.instagram.com/amulyajain89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amulyajain89/" height="30" width="40" /></a>
-<!-- #----------- HASHNODE ------------# -->
-<a href="https://hashnode.com/@alokik89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alokik89" height="30" width="40" /></a>
-<!-- #----------- YOUTUBE ------------# -->
-<a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amulya jain @jainamulyawin" height="30" width="40" /></a>
-<!-- #----------- CODECHEF ------------# -->
-<a href="https://www.codechef.com/users/alokik_engg_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alokik_engg_89" height="30" width="40" /></a>
-<!-- #----------- HACKERRANK ------------# -->
-<a href="https://www.hackerrank.com/profile/jainamulyawin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amulya jain" height="30" width="40" /></a>
-<!-- #----------- LEETCODE ------------# -->
-<a href="https://www.leetcode.com/amulya_89-curious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amulya_89-curious" height="30" width="40" /></a>
-<!-- #----------- GFG ------------# -->
-<a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_6jg2kzes1gw" height="30" width="40" /></a>
-<!-- #----------- TOPCODER ------------# -->
-<a href="https://www.topcoder.com/members/amulya[2004]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="amulya[2004]" height="30" width="40" /></a>
+  <!-- #----------- LINKEDIN ------------# -->
+  <a href="https://www.linkedin.com/in/amulya-jain-b92783287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amulya jain" height="30" width="40" /></a>
+  <!-- #----------- KAGGLE ------------# -->
+  <a href="https://kaggle.com/amulyajain@2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amulyajain@2004" height="30" width="40" /></a>
+  <!-- #----------- INSTAGRAM ------------# -->
+  <a href="https://www.instagram.com/amulyajain89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amulyajain89/" height="30" width="40" /></a>
+  <!-- #----------- HASHNODE ------------# -->
+  <a href="https://hashnode.com/@alokik89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alokik89" height="30" width="40" /></a>
+  <!-- #----------- YOUTUBE ------------# -->
+  <a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amulya jain @jainamulyawin" height="30" width="40" /></a>
+  <!-- #----------- CODECHEF ------------# -->
+  <a href="https://www.codechef.com/users/alokik_engg_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alokik_engg_89" height="30" width="40" /></a>
+  <!-- #----------- HACKERRANK ------------# -->
+  <a href="https://www.hackerrank.com/profile/jainamulyawin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amulya jain" height="30" width="40" /></a>
+  <!-- #----------- LEETCODE ------------# -->
+  <a href="https://www.leetcode.com/amulya_89-curious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amulya_89-curious" height="30" width="40" /></a>
+  <!-- #----------- GFG ------------# -->
+  <a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_6jg2kzes1gw" height="30" width="40" /></a>
+  <!-- #----------- TOPCODER ------------# -->
+  <a href="https://www.topcoder.com/members/amulya[2004]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="amulya[2004]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: -</h3>
