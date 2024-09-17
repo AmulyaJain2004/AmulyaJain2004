@@ -155,7 +155,7 @@
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/v2/GZ8CKAZs5mx7BrQtwODEr.png?type=default&r=6vb" width="300" alt="Amulya Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/v2/GZ8CKAZs5mx7BrQtwODEr.png?type=default&r=17t" width="356" alt="Amulya Jain's Dev Card"/></a>
 
 [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
