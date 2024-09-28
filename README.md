@@ -151,6 +151,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" /></p>
 
+[![AmulyaJain2004's GitHub | Stats](https://stats.quira.sh/AmulyaJain2004/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004)
+
+[![AmulyaJain2004's GitHub | Languages Over Time](https://stats.quira.sh/AmulyaJain2004/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004)
+
+[![AmulyaJain2004's GitHub | Topics Over Time](https://stats.quira.sh/AmulyaJain2004/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004)
+
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
