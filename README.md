@@ -21,7 +21,7 @@
 
 <h3 align="center" style="color: #FF5733;">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology.</h3>
 
-<h3 align="center" style="color: #33FF33;">🎓 Currently, I'm a 2nd-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering specializing in Artificial Intelligence and Machine Learning (AIML) at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
+<h3 align="center" style="color: #33FF33;">🎓 Currently, I'm a 2nd-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) specializing in Artificial Intelligence and Machine Learning (AIML) at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
 
 <h3 align="center" style="color: #3399FF;">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together. 🚀</h3>
 
