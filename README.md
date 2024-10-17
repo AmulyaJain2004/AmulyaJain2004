@@ -37,7 +37,7 @@
 
 - 👯 I’m looking to collaborate on **C, C++, Python and Web Development Projects.**
 
-- 📫 How to reach me - Visit my portfolio website: **https://amulyajain2004.github.io/**
+- 📫 How to reach me - Visit my portfolio website: **https://amulyajain2004.github.io/** , **https://www.datascienceportfol.io/AmulyaJain**.
   
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
