@@ -8,7 +8,7 @@
 <h1 align="center">
   Hi! I'm Amulya Jain 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /> </p>
+  <p><img src="termina-gh.gif" alt="Terminal GH GIF"/></p>
 </h1>
 -->
 
