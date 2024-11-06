@@ -26,10 +26,10 @@
 <h3 align="center" style="color: #3399FF;">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together. 🚀</h3>
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=darkhub" alt="amulyajain2004" /></a> </p>
 
