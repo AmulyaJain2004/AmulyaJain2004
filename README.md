@@ -195,7 +195,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" />
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004&" alt="amulyajain2004" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
         </td>
     </tr>
     <tr>
