@@ -203,8 +203,8 @@
            <img src="https://github-readme-stats.vercel.app/api?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" />
         </td>
         <td>
-            <a href="https://github.com/amulyajain2004/github-readme-activity-graph">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical" alt="Amulya Jain's github activity graph">
+            <a href="https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004">
+                <img src="https://stats.quira.sh/AmulyaJain2004/github?theme=dark" alt="AmulyaJain2004's GitHub | Stats">
             </a>
         </td>
     </tr>
@@ -220,17 +220,11 @@
             </a>
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004">
-                <img src="https://stats.quira.sh/AmulyaJain2004/github?theme=dark" alt="AmulyaJain2004's GitHub | Stats">
-            </a>
-        </td>
-        <td>
-            <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar">
-        </td>
-    </tr>
 </table>
+
+[![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
