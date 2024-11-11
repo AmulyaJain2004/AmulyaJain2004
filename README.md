@@ -166,7 +166,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <img src="assets/hackweb3conf.png" width="100px" height="100px" />
+    <img src="assets/Hack-Web3Conf_2024_Badge.png" width="100px" height="100px" />
   </a>
 </div>
 
