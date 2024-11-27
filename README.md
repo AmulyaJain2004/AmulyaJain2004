@@ -64,7 +64,7 @@
 
 <p align="left">
   <!-- #----------- LINKEDIN ------------# -->
-  <a href="https://www.linkedin.com/in/amulya-jain-b92783287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amulya jain" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/amulya-jain04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amulya jain" height="30" width="40" /></a>
   <!-- #----------- KAGGLE ------------# -->
   <a href="https://kaggle.com/amulyajain@2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amulyajain@2004" height="30" width="40" /></a>
   <!-- #----------- INSTAGRAM ------------# -->
