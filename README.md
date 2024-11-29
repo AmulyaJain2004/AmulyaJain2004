@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA) and Full Stack Web Development.**
 
-- 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization, and leveraging libraries such as **Pandas, NumPy, and Scikit-learn** to derive actionable insights.
+- 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization and leveraging libraries such as **Pandas, NumPy and Scikit-learn** to derive actionable insights.
 
 - 👯 I’m looking to collaborate on **C, C++, Python and Web Development Projects.**
 
