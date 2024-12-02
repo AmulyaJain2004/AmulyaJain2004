@@ -34,8 +34,9 @@
 - 👯 I’m looking to collaborate on **C, C++, Python and Web Development Projects.**
 
 - 📫 How to reach me: -
-    1. Visit my Portfolio Website: **https://amulyajain2004.github.io/**
-    2. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** ,**https://codolio.com/profile/AlokikEngineer**
+    1. Email at: **Amulya.122439@stu.upes.ac.in**.
+    2. Visit my Portfolio Website: **https://amulyajain2004.github.io/**.
+    3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** ,**https://codolio.com/profile/AlokikEngineer**.
   
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
