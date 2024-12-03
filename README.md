@@ -43,7 +43,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## :globe_with_meridians: Open Source Contributions 🌟
-
 <table align="center">
   <tr>
     <th>Role</th>
@@ -212,6 +211,7 @@
   </tr>
 </table>
 -->
+
 ###
 
 <h3 align="left">🔥 My GitHub Stats: -</h3>
@@ -230,7 +230,6 @@
     Graph of Commits
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmulyaJain2004&theme=2077" height="210em" alt="Graph of Commits" />
 </div> -->
-
 
 <table>
     <tr>
@@ -287,7 +286,6 @@
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -296,10 +294,10 @@
   <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
-  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 -->
+
 <br clear="both">
 
 ![snake gif](https://github.com/AmulyaJain2004/AmulyaJain2004/blob/output/github-contribution-grid-snake-dark.svg)
