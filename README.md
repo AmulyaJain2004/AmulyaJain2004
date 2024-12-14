@@ -1,4 +1,6 @@
-<!-- 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player. -->
+<!--
+2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
+-->
 
 <br clear="both">
 
@@ -220,7 +222,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
 
-<!-- <div>
+<!--
+<div>
     Top languages by commit
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmulyaJain2004&theme=2077" height="210em" alt="Top languages by commit" />
     Top languages by repo
@@ -229,7 +232,8 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmulyaJain2004&theme=2077" height="210em" alt="Histogram of Commits" />
     Graph of Commits
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmulyaJain2004&theme=2077" height="210em" alt="Graph of Commits" />
-</div> -->
+</div>
+-->
 
 <table>
     <tr>
@@ -276,15 +280,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--## :zap: My LeetCode Stats 📊
+<!--
+## :zap: My LeetCode Stats 📊
 <div align="center">
   <a href="https://leetcode.com/Amulya_89-curious">
     <img align="center" src="https://leetcard.jacoblin.cool/Amulya_89-curious?ext=heatmap" height="300em" alt="LeetCode Stats"/>
   </a>
 </div> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
-<!--<h2 align="center">Leetcode Info<h2>  
+<!--
+<h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
@@ -293,7 +300,8 @@
 </p>
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  
-</p>-->
+</p>
+-->
 
 <br clear="both">
 
