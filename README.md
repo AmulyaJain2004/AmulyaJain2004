@@ -280,7 +280,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
 ## :zap: My LeetCode Stats 📊
 <div align="center">
   <a href="https://leetcode.com/Amulya_89-curious">
@@ -288,7 +287,6 @@
   </a>
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
 
 <!--
 <h2 align="center">Leetcode Info<h2>  
