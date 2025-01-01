@@ -1,5 +1,7 @@
 <!--
+
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
+
 -->
 
 <br clear="both">
@@ -287,6 +289,7 @@
   </a>
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--
 <h2 align="center">Leetcode Info<h2>  
