@@ -1,7 +1,5 @@
 <!--
-
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
-
 -->
 
 <br clear="both">
@@ -46,7 +44,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ## :globe_with_meridians: Open Source Contributions 🌟
+<!-- 
+## :globe_with_meridians: Open Source Contributions 🌟
 <table align="center">
   <tr>
     <th>Role</th>
@@ -64,7 +63,8 @@
     <td><img src="https://github.com/user-attachments/assets/970b3033-e6cf-4b01-b93b-b9205f9e73f2" alt="WoB'24 Badge" width="150" height="100"/></td>
   </tr>
 </table> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+-->
 
 <h3 align="left">Connect with me: -</h3>
 
@@ -178,7 +178,8 @@
   </a>
 </div>
 
-<!-- 
+<!--
+
 ## GSSOC(24) Extd Badges 🪶
 <table>
   <tr>
