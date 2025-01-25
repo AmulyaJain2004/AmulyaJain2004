@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA) and Full Stack Web Development.**
+- 🌱 I’m currently learning **Game Development, Machine Learning, Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA) and Full Stack Web Development.**
 
 - 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization and leveraging libraries such as **Pandas, NumPy and Scikit-learn** to derive actionable insights.
 
