@@ -1,5 +1,9 @@
 <!--
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
+
+
+
+
 -->
 
 <br clear="both">
@@ -38,7 +42,7 @@
 - 📫 How to reach me: -
     1. Email at: **Amulya.122439@stu.upes.ac.in**.
     2. Visit my Portfolio Website: **https://amulyajain2004.github.io/**.
-    3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** ,**https://codolio.com/profile/AlokikEngineer**.
+    3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** , **https://codolio.com/profile/AlokikEngineer**.
   
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
