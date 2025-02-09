@@ -4,9 +4,6 @@
 
 <br clear="both">
 
-
-
-
 <div align="center">
   <img height="500" src="AI-Technology-Creation-Concept.gif" />
 </div>
