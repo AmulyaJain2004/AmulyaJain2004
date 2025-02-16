@@ -270,6 +270,7 @@
     </tr>
 </table>
 
+
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -290,6 +291,7 @@
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <!--
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
@@ -302,6 +304,7 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 -->
+
 
 <br clear="both">
 
