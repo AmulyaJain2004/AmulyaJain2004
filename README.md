@@ -1,13 +1,10 @@
 <!--
-
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
-
 -->
-
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="AI-Technology-Creation-Concept.gif" />
+  <img height="500" src="AI-Technology-Creation-Concept.gif" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Data+Scientist;AI+ML+Enthusiast)](https://git.io/typing-svg)
@@ -37,10 +34,9 @@
 
 - 👯 I’m looking to collaborate on **C, C++, Python and Full Stack Web Development Projects.**
 
-- 📫 How to reach me: -
-    1. Email at: **Amulya.122439@stu.upes.ac.in**.
-    2. Visit my Portfolio Website: **https://amulyajain2004.github.io/**.
-    3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** , **https://codolio.com/profile/AlokikEngineer**.
+- 📫 How to reach me: Email at: **Amulya.122439@stu.upes.ac.in**.
+<!--2. Visit my Portfolio Website: **https://amulyajain2004.github.io/**.
+    3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** , **https://codolio.com/profile/AlokikEngineer**.-->
   
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
