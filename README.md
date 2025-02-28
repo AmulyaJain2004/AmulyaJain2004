@@ -1,10 +1,15 @@
 <!--
+
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
+
 -->
+
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="AI-Technology-Creation-Concept.gif" />
+  
+  <img height="400" src="AI-Technology-Creation-Concept.gif" />
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Data+Scientist;AI+ML+Enthusiast)](https://git.io/typing-svg)
