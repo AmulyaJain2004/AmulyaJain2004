@@ -1,7 +1,5 @@
 <!--
-
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
-
 -->
 
 <br clear="both">
@@ -247,7 +245,7 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
         </td>
     </tr>
-    <tr>
+<!--     <tr> It is quira-readme widgets officially deprecated so to remove this while in next iteration of readme update.
         <td>
            <img src="https://github-readme-stats.vercel.app/api?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" />
         </td>
@@ -256,8 +254,8 @@
                 <img src="https://stats.quira.sh/AmulyaJain2004/github?theme=dark" alt="AmulyaJain2004's GitHub | Stats">
             </a>
         </td>
-    </tr>
-    <tr>
+    </tr> -->
+<!--     <tr> It is officially deprecated so to remove this while in next iteration of readme update.
         <td>
             <a href="https://quira.sh?utm_source=widgets&utm_campaign=AmulyaJain2004">
                 <img src="https://stats.quira.sh/AmulyaJain2004/languages-over-time?theme=dark" alt="AmulyaJain2004's GitHub | Languages Over Time">
@@ -268,7 +266,7 @@
                 <img src="https://stats.quira.sh/AmulyaJain2004/topics-over-time?theme=dark" alt="AmulyaJain2004's GitHub | Topics Over Time">
             </a>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 
