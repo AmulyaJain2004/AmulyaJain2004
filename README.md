@@ -284,13 +284,13 @@
 <a href="https://app.daily.dev/amulyajain"><img src="https://api.daily.dev/devcards/v2/GZ8CKAZs5mx7BrQtwODEr.png?type=default&r=17t" width="300" alt="Amulya Jain's Dev Card"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--
 ## :zap: My LeetCode Stats 📊
 <div align="center">
   <a href="https://leetcode.com/Amulya_89-curious">
     <img align="center" src="https://leetcard.jacoblin.cool/Amulya_89-curious?ext=heatmap" height="300em" alt="LeetCode Stats"/>
   </a>
-</div> 
+</div> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
