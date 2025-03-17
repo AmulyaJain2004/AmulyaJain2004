@@ -221,7 +221,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
 
-<!--
+<!-- 
 <div>
     Top languages by commit
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmulyaJain2004&theme=2077" height="210em" alt="Top languages by commit" />
@@ -243,7 +243,7 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
         </td>
     </tr>
-<!--     <tr> It is quira-readme widgets officially deprecated so to remove this while in next iteration of readme update.
+<!--     <tr> These are quira-readme widgets officially deprecated so to remove this while in next iteration of readme update.
         <td>
            <img src="https://github-readme-stats.vercel.app/api?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" />
         </td>
@@ -288,8 +288,6 @@
 </div> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<!--
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -300,8 +298,6 @@
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
--->
-
 
 <br clear="both">
 
