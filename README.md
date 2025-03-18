@@ -15,7 +15,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG"/>     
     </h1>
 </div>
-
 <h3 align="center">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology. </h3>
 
 <h3 align="center">🎓 Currently, I'm a 2nd-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) specializing in Artificial Intelligence and Machine Learning (AIML) at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
@@ -23,13 +22,14 @@
 <h3 align="center">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together. 🚀</h3>
 
 <div align="center">
+  
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Object Oriented Programming (OOPs), Data Structures and Algorithms (DSA).**
-
 - 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization and leveraging libraries such as **Pandas, NumPy, Matplotlib and Scikit-learn** to derive actionable insights.
 
 - 👯 I’m looking to collaborate on **C, C++, Python and Full Stack Web Development Projects.**
