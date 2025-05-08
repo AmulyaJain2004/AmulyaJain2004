@@ -1,15 +1,11 @@
 <!--
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
 -->
-
-
 <br clear="both">
 <div align="center">
   <img height="400" src="AI-Technology-Creation-Concept.gif"/>
 </div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Data+Scientist;AI+ML+Enthusiast)](https://git.io/typing-svg)
-
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     <h1>
@@ -17,9 +13,7 @@
     </h1>
 </div>
 <h3 align="center">An Aspiring AI & Machine Learning Engineer from India: Fueling My Passion for Code and Building a Future in AI through Technology. </h3>
-
 <h3 align="center">🎓 Currently, I'm a 2nd-year student pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) specializing in Artificial Intelligence and Machine Learning (AIML) at the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.</h3>
-
 <h3 align="center">💻 Passionate coder on a continuous journey of innovation and mastery across various programming languages. Enthusiastic about honing my skills and embracing new challenges. Let's create and elevate together. 🚀</h3>
 
 <div align="center">
@@ -36,8 +30,10 @@
 - 👯 I’m looking to collaborate on **C, C++, Python and Full Stack Web Development Projects.**
 
 - 📫 How to reach me: Email at: **Amulya.122439@stu.upes.ac.in**.
+  
 <!--2. Visit my Portfolio Website: **https://amulyajain2004.github.io/**.
     3. Other Platforms:  **https://www.datascienceportfol.io/AmulyaJain** , **https://codolio.com/profile/AlokikEngineer**.-->
+
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- 
