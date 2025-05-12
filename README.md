@@ -286,8 +286,8 @@
     <img align="center" src="https://leetcard.jacoblin.cool/Amulya_89-curious?ext=heatmap" height="300em" alt="LeetCode Stats"/>
   </a>
 </div>
--->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <!--<h2 align="center">Leetcode Info<h2>  
 <p align="center">
