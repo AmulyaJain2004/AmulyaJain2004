@@ -2,15 +2,6 @@
 2nd yr B.Tech CSE spec. AI & ML at UPES. Research oriented, Eager for learning Coding, Robotics, Maths & Tech Developments. An Astronomy freak & Chess player.
 <br clear="both">
 -->
-
-
-
-
-
-
-
-
-
 <div align="center">
   <img height="400" src="AI-Technology-Creation-Concept.gif"/>
 </div>
