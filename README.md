@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="AI-Technology-Creation-Concept.gif"/>
+  <img height="300" src="AI-Technology-Creation-Concept.gif"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
-- 🎓 **Pursuing :** 🎓 Currently, I'm a 2nd-year undergraduate pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) t the University of Petroleum and Energy Studies (UPES), Dehradun, Uttarakhand, India.
+- 🎓 **Pursuing :** 🎓 Currently, I'm a 2nd-year undergraduate pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence and Machine Learning (AIML)
 - 🌱 **Currently learning:** Statistics, Deep Learning & Data Structures and Algorithms (DSA). 
 - 💼 **Working on:** AI integrations at Internship.
@@ -30,8 +30,6 @@
 
 ### 🛠️ Tech Stack
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 <table border="1" cellspacing="0" cellpadding="8">
     <!-- Programming Languages -->
     <tr>
@@ -42,16 +40,16 @@
     <tr>
         <td rowspan="1"><b>Programming Languages</b></td>
         <td></td>
-        <td><img src="https://skillicons.dev/icons?i=c"><p>C</p></td>
-        <td><img src="https://skillicons.dev/icons?i=cpp"><p>C++</p></td>
-        <td><img src="https://skillicons.dev/icons?i=java"><p>Java</p></td>
-        <td><img src="https://skillicons.dev/icons?i=python"><p>Python</p></td>
-        <td><img src="https://skillicons.dev/icons?i=javascript"><p>JavaScript</p></td>
+        <td><a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c"><p>C</p></a></td>
+        <td><a href="https://en.cppreference.com/w/cpp/language.html" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"><p>C++</p></a></td>
+        <td><a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java"><p>Java</p></td>
+        <td><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"><p>Python</p></td>
+        <td><a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript"><p>JavaScript</p></td>
     </tr>
     <tr>
         <td rowspan="1"><b>Scripting</b></td>
         <td></td>
-        <td><img src="https://skillicons.dev/icons?i=bash"><p>Bash</p></td>
+        <td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash"><p>Bash</p></a></td>
     </tr>
     <!-- Web Development -->
     <tr>
@@ -77,7 +75,7 @@
     <tr>
         <td>Python Frameworks</td>
         <td><img src="https://skillicons.dev/icons?i=django"><p>Django</p></td>
-        <td><i class="devicon-djangorest-plain" style="font-size:55px"></i><p>DRF</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width: 80px"/><p>DRF</p></td>
         <td><img src="https://skillicons.dev/icons?i=fastapi"><p>FastAPI</p></td>
     </tr>
     <!-- Databases -->
@@ -94,25 +92,24 @@
     </tr>
     <!-- Data Science -->
     <tr>
-        <td rowspan="5"><b>Data Science / ML / AI</b></td>
+        <td rowspan="5"><b>Data Science / AIML</b></td>
         <td>Development Environment</td>
-        <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  /> </a><p>Jupyter</p></td>
-        <td><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  /> </a> <p>Anaconda</p></td>
+        <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo"/></a><p>Jupyter</p></td>
+        <td><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo"/> </a> <p>Anaconda</p></td>
     </tr>
     <tr>
         <td>Data Visualisation Tools</td>
         <!-- <td>Power BI</td> -->
-        <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" style="width:50px" /><p>Plotly</p></td> -->
+        <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" style="width:50px"/><p>Plotly</p></td> -->
         <!-- <td>Dash</td> -->
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width:50px" /><p>Matplotlib</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width:50px"/><p>Matplotlib</p></td>
         <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" alt="seabon logo" /><p>Seaborn</p></td> -->
     </tr>
     <tr>
-        <td>Scientific Computing and other</td>
-        <td><i class="devicon-numpy-plain-wordmark" style="font-size: 60px"></i><p>NumPy</p></td>
+        <td>Scientific Computing and Others</td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" style="width: 50px"/><p>NumPy</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="width: 50px"/><p>Pandas</p></td>
         <!-- <td>SciPy</td> -->
-        <td>
-        <i class="devicon-pandas-plain-wordmark" style="font-size:50px" ></i><p>Pandas</p></td>
     </tr>
     <!-- <tr>
         <td>NLP</td>
@@ -134,7 +131,7 @@
         <td><b>DevOps / MLOps</b></td>
         <td>-</td>
         <td><img src="https://skillicons.dev/icons?i=docker"><p>Docker</p></td>
-        <td>MLflow</td><td></td><td></td>
+        <td>MLflow</td>
     </tr> -->
     <!-- Deployment -->
     <tr>
