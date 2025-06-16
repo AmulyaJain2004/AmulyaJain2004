@@ -106,7 +106,7 @@
         <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" alt="seabon logo" /><p>Seaborn</p></td> -->
     </tr>
     <tr>
-        <td>Scientific Computing and Others</td>
+        <td>Scientific Computing and Other Libraries</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" style="width: 50px"/><p>NumPy</p></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="width: 50px"/><p>Pandas</p></td>
         <!-- <td>SciPy</td> -->
@@ -139,6 +139,8 @@
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=vercel"><p>Vercel</p></td>
         <td><img src="https://skillicons.dev/icons?i=netlify"><p>Netlify</p></td>
+        <td><p>GitHub Actions</p></td>
+        <td><p>Render</p></td>
     </tr>
     <!-- Version Control -->
     <tr>
