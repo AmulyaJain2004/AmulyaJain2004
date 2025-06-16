@@ -306,13 +306,15 @@
 
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
+<!--
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
-<a href="https://app.daily.dev/amulyajain"><img src="./devcard.png" width="356" alt="Amulya Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/amulyajain"><img src="./devcard.png" width="280" alt="Amulya Jain's Dev Card"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
