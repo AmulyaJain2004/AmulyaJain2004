@@ -170,44 +170,6 @@
   </a>
 </div>
 
-
-## GSSOC(24) Extd Badges 🪶
-<table>
-  <tr>
-    <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
-        <a href="https://gssoc.girlscript.tech/leaderboard">
-          <img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" alt="GirlScript Summer of Code" width="120" />
-        <br>
-          <strong>GirlScript Summer of Code Extend</strong>
-        </a>
-      <br>
-      <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 277th</span>
-      <br>
-        <span style="font-size: 12px; color: #777777;">
-        Out of 32000+ participants<br>
-        PRs Merged: 6 <br>
-        Total Badges: 7<br>
-        Total Score: 1040<br>
-        </span>
-      </td>
-      <td>
-        <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-          <a href="https://gssoc.girlscript.tech/leaderboard">
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-            <img src="assets/Hack-Web3Conf_2024_Badge.png" width="100px" height="100px" />
-          </a>
-        </div>
-      </td>
-  </tr>
-</table>
-
-
 ###
 
 <h3 align="left">🔥 My GitHub Stats: -</h3>
