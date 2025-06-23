@@ -172,20 +172,16 @@
   - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack*  
   - [Notes-app](https://github.com/AmulyaJain2004/Notes-app) - *Full Stack Note Taking App using Django, Django REST Framework & ReactJS*
   - [AttendanceTracker](https://github.com/AmulyaJain2004/AttendanceTracker) - *Attendance Tracker for maintaining record of missed classes for minimum percentage criteria in University using Django, HTML, CSS & JS*
-  - [Tic-Tac-Toe-Game](https://github.com/AmulyaJain2004/Tic-Tac-Toe-Game) - *Min-Max Algorithm based TicTacToe with GUI and Matplotlib Visualisation*
+  - [Tic-Tac-Toe-Game](https://github.com/AmulyaJain2004/Tic-Tac-Toe-Game) - *Min-Max Algorithm based TicTacToe with Python GUI and Matplotlib Visualisation*
   - [HousePricePrediction](https://github.com/AmulyaJain2004/HousePricePrediction) - *Machine Learning Project Predicting House Prices using Linear Regression*
   - [TaskManagementSystem](https://github.com/AmulyaJain2004/TaskManagementSystem) - *Full Stack Task Alloting and Management application MERN stack*
   - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website*
-  <!-- [PRIVATE] [AI-Powered-Space-Exploration-and-Research-Hub](https://github.com/AmulyaJain2004/AI-Powered-Space-Exploration-and-Research-Hub) - *Next Generation Comprehensive AI platform for astronomy and space exploration enthusiasts* -->
-  <!-- - [Library](https://github.com/AmulyaJain2004/Library) - *Java & Swing based Library Management System* -->
-  <!-- - [Student-Productivity-Study-Habits-Analysis](https://github.com/AmulyaJain2004/Student-Productivity-Study-Habits-Analysis) - *Full Stack Powerful ML Deployed Application for Predicting Student Overall Academics Performance* -->
-  <!-- - [algorithms.c](https://github.com/AmulyaJain2004/algorithms.c) - *C based library for all Data Structures and Algorithms* -->
-  <!-- - [BlogSpace](https://github.com/AmulyaJain2004/BlogSpace) - *Full Stack Blogging Website using Django, Django REST & HTML, CSS & JS* -->
   <!-- - [AmulyaJain2004.github.io](https://github.com/AmulyaJain2004/AmulyaJain2004.github.io) - *My Portfolio Website* -->
 
   #### Open Source Contributions
 
   - [UPES_Courses_through_Notes_and_Codes](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository for all the resources, labs, and assignments for the programming courses offered at the University of Petroleum and Energy Studies (UPES).*
+  - Others to be added soon for now check out my Contribution Activity :)
 
   #### Programming Languages and Frameworks Learnings
 
@@ -196,33 +192,12 @@
   - [LetsGo](https://github.com/AmulyaJain2004/LetsGo) - *Repository of Cool Go Programming*
   - [Learning-useR](https://github.com/AmulyaJain2004/Learning-useR) - *Repository of Cool R Programming*
   - [SQLyticsSphere](https://github.com/AmulyaJain2004/SQLyticsSphere) - *Repository of Cool SQL, NoSQL Databases*
-  - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming*
-  - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*-->
+  - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming* -->
   <!-- - [Advanced-Python](https://github.com/AmulyaJain2004/Advanced-Python) - *Repository of Cool Django Framework Learning* -->
 
   #### Problem Solving
 
   - [The_Art_of_Leetcoding](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding) - *Repository collection of my LeetCode Problem Solving*
-  <!-- [PRIVATE] [GeeksforGeeksDSA](https://github.com/AmulyaJain2004/GeeksforGeeksDSA) - *Collection of my solutions to various GeeksforGeeks Problems* -->
-  <!-- - [Ignite-DSA-Challenge](https://github.com/AmulyaJain2004/Ignite-DSA-Challenge) - *CPP DSA Striver's A2Z Sheet Solving*
-  - [CodeChef_Coding](https://github.com/AmulyaJain2004/CodeChef_Coding) - *Collection of Codechef Problem Solving Starters Contest* -->
-
-  <!-- #### Hackathons
-
-  - [PRIVATE] [Agri-Buddy](https://github.com/AmulyaJain2004/Agri-Buddy) - *AI-ML based models for predicting prices of agri-horticultural commodities*
-  - [BubbleBashers](https://github.com/AmulyaJain2004/BubbleBashers) - *Bubble Basher Unity Framework Game*
-  - [AdaptiveCare](https://github.com/AmulyaJain2004/AdaptiveCare) - *Health Care Operation Management Full Stack MERN Application*
-  - [Project](https://github.com/AmulyaJain2004/Project) - *Tool that transforms natural language ideas into structured flowcharts* -->
-
-  <!-- #### Professional Certification & Courses
-
-  - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website*
-  - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website*
-  - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website* -->
-
-  <!-- #### Simple Projects or POC
-
-  - [Django-Portfolio-Website](https://github.com/AmulyaJain2004/Django-Portfolio-Website) - *Simple POC of Portfolio Website using and deployment on Render* -->
 
 - 🌟 **Achievements:**  
   - Open Source Achievement: GSSOC(24) Extd Badges 🪶
