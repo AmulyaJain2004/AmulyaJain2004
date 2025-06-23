@@ -238,9 +238,10 @@
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
   - IBM Professional DataSceince Skill Badges
+  - Linkedin uploaded certificates
   - Google Cloud Skill Badges
-  - Coding Platform Portfolios
-  - LeetCode
+  - Coding Platform Portfolios Codolio
+  - LeetCode, Hackerrank, Deep-ml
   -->
     <!-- <p align="center">
     <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
