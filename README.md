@@ -180,7 +180,7 @@
 
   #### Open Source Contributions
 
-  - [UPES_Courses_through_Notes_and_Codes](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository for all the resources, labs, and assignments for the programming courses offered at the University of Petroleum and Energy Studies (UPES).*
+  - [UPES_Courses_through_Notes_and_Codes](https://github.com/AmulyaJain2004/UPES_Courses_through_Notes_and_Codes) - *Repository for all the resources, labs, and assignments for the programming courses offered at the University of Petroleum and Energy Studies (UPES).*
   - Others to be added soon for now check out my Contribution Activity :)
 
   #### Programming Languages and Frameworks Learnings
