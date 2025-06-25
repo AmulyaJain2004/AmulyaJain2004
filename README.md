@@ -172,12 +172,12 @@
 
   #### Projects
 
-  - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack*  
+  - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack & Deployed*  
   - [Notes-app](https://github.com/AmulyaJain2004/Notes-app) - *Full Stack Note Taking App using Django, Django REST Framework & ReactJS*
   - [AttendanceTracker](https://github.com/AmulyaJain2004/AttendanceTracker) - *Attendance Tracker for maintaining record of missed classes for minimum percentage criteria in University using Django, HTML, CSS & JS*
   - [Tic-Tac-Toe-Game](https://github.com/AmulyaJain2004/Tic-Tac-Toe-Game) - *Min-Max Algorithm based TicTacToe with Python GUI and Matplotlib Visualisation*
   - [HousePricePrediction](https://github.com/AmulyaJain2004/HousePricePrediction) - *Machine Learning Project Predicting House Prices using Linear Regression*
-  - [TaskManagementSystem](https://github.com/AmulyaJain2004/TaskManagementSystem) - *Full Stack Task Alloting and Management application MERN stack*
+  - [TaskManagementSystem](https://github.com/AmulyaJain2004/TaskManagementSystem) - *Full Stack Task Alloting and Management application MERN stack & Deployed*
   - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website*
   <!-- - [AmulyaJain2004.github.io](https://github.com/AmulyaJain2004/AmulyaJain2004.github.io) - *My Portfolio Website* -->
 
