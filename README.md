@@ -144,7 +144,7 @@
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=vercel"><p>Vercel</p></td>
         <td><img src="https://skillicons.dev/icons?i=netlify"><p>Netlify</p></td>
-        <td><p>GitHub Actions</p></td>
+        <td><img src="https://skillicons.dev/icons?i=githubactions"><p>GitHub Actions</p></td>
         <td><p>Render</p></td>
     </tr>
     <!-- Version Control -->
