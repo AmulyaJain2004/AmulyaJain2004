@@ -76,7 +76,7 @@
     <tr>
         <td>Python Frameworks</td>
         <td><img src="https://skillicons.dev/icons?i=django"><p>Django</p></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width: 60px"/><p>Django REST Framework</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width: 80px"/><p>Django REST Framework</p></td>
         <td><img src="https://skillicons.dev/icons?i=fastapi"><p>FastAPI</p></td>
     </tr>
     <!-- Databases -->
