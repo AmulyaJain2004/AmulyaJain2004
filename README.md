@@ -235,6 +235,9 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
             </td>
         </tr>
     </table>
+  - Open Source Badges
+    
+    [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
   - IBM Professional DataSceince Skill Badges
@@ -347,8 +350,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 <!--![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
 
 <a href="https://app.daily.dev/amulyajain"><img src="./devcard.png" width="280" alt="Amulya Jain's Dev Card"/></a>
 
