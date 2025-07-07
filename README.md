@@ -2,7 +2,6 @@
   <img height="300" src="AI-Technology-Creation-Concept.gif"/>
 </div>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
@@ -345,9 +344,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
-<!--
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+<!--![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
