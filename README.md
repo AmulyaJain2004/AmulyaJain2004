@@ -198,6 +198,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
   #### Problem Solving
 
   - [The_Art_of_Leetcoding](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding) - *Repository collection of my LeetCode Problem Solving*
+  - [GeeksforGeeksDSA](https://github.com/AmulyaJain2004/GeeksforGeeksDSA) - *Repository collection of my GeeksForGeeks Problem Solving*
 
 - 🌟 **Achievements:**  
   - Open Source Achievement: GSSOC(24) Extd Badges 🪶
