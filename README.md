@@ -239,6 +239,9 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
   - Open Source Badges
     
     [![An image of @amulyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amulyajain2004)](https://holopin.io/@amulyajain2004)
+
+   <p align="center"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  </p>
+
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
   - IBM Professional DataSceince Skill Badges
@@ -253,9 +256,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
     <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
     </p>-->
-    <!-- <p align="center">
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  
-    </p>  -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
