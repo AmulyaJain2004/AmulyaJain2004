@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="assets/AI-Technology-Creation-Concept.gif"/>
+  <img src="assets/AI-Technology-Creation-Concept.gif" height="300" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
