@@ -345,6 +345,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     </tr>
 </table>
 
+
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
 <!--![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)-->
