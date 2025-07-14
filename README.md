@@ -27,6 +27,75 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🌐 Connect with Me
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/amulya-jain04/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"><br>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/amulyajain@2004" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30"><br>
+        <b>Kaggle</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/amulyajain89/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"><br>
+        <b>Instagram</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hashnode.com/@alokik89" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30"><br>
+        <b>Hashnode</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"><br>
+        <b>YouTube</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/alokik_engg_89" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30"><br>
+        <b>CodeChef</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/jainamulyawin" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"><br>
+        <b>HackerRank</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/amulya_89-curious" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"><br>
+        <b>LeetCode</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30"><br>
+        <b>GFG</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.topcoder.com/members/amulya[2004]" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="30"><br>
+        <b>TopCoder</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🛠️ Tech Stack
 
 <table border="1" cellspacing="0" cellpadding="8">
@@ -255,75 +324,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
     <a href="https://leetcode.com/Amulya_89-curious/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
     </p>-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🌐 Connect with Me
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/amulya-jain04/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"><br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/amulyajain@2004" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30"><br>
-        <b>Kaggle</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/amulyajain89/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"><br>
-        <b>Instagram</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hashnode.com/@alokik89" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30"><br>
-        <b>Hashnode</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"><br>
-        <b>YouTube</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/alokik_engg_89" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30"><br>
-        <b>CodeChef</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/jainamulyawin" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"><br>
-        <b>HackerRank</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.leetcode.com/amulya_89-curious" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"><br>
-        <b>LeetCode</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://auth.geeksforgeeks.org/user/user_6jg2kzes1gw" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30"><br>
-        <b>GFG</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.topcoder.com/members/amulya[2004]" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="30"><br>
-        <b>TopCoder</b>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
