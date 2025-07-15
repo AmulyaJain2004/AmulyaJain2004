@@ -276,7 +276,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
                 <a href="https://gssoc.girlscript.tech/leaderboard">
                 <img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" alt="GirlScript Summer of Code" width="120" />
                 <br>
-                <strong>GirlScript Summer of Code Extend</strong>
+                <strong>GirlScript Summer of Code 2024 Extended</strong>
                 </a>
             <br>
             <br>
@@ -337,7 +337,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en" alt="amulyajain2004" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" />
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
