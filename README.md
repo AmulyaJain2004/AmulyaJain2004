@@ -256,11 +256,11 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
   - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*
   - [CUniverse-Exploring-C-Cosmos](https://github.com/AmulyaJain2004/CUniverse-Exploring-C-Cosmos) - *Repository of Cool C Programming*
   - [InfinityShellWizards-Journey-to-Bash-Shell-Scripting](https://github.com/AmulyaJain2004/InfinityShellWizards-Journey-to-Bash-Shell-Scripting) - *Linux Bash Shell Scripting repository to learn and explore*
+  - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming*
   <!-- - [CppCodeCrafters-Lets-Innovate](https://github.com/AmulyaJain2004/CppCodeCrafters-Lets-Innovate) - *Repository of Cool Cpp Programming*
   - [LetsGo](https://github.com/AmulyaJain2004/LetsGo) - *Repository of Cool Go Programming*
   - [Learning-useR](https://github.com/AmulyaJain2004/Learning-useR) - *Repository of Cool R Programming*
-  - [SQLyticsSphere](https://github.com/AmulyaJain2004/SQLyticsSphere) - *Repository of Cool SQL, NoSQL Databases*
-  - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming* -->
+  - [SQLyticsSphere](https://github.com/AmulyaJain2004/SQLyticsSphere) - *Repository of Cool SQL, NoSQL Databases* -->
   <!-- - [Advanced-Python](https://github.com/AmulyaJain2004/Advanced-Python) - *Repository of Cool Django Framework Learning* -->
 
   #### Problem Solving
