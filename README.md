@@ -232,7 +232,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 ### 🏆 Highlights
   <!-- I have to write about by OS contributions forks and other future projects and uncomment as I complete the incomplete -->
-
 - 🏅 **Top Repositories:**  
 
   #### Projects
