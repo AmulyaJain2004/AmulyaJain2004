@@ -40,7 +40,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
       </a>
     </td>
     <td align="center">
-      <a href="https://kaggle.com/amulyajain@2004" target="_blank">
+      <a href="https://kaggle.com/amulyajain2004" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30"><br>
         <b>Kaggle</b>
       </a>
