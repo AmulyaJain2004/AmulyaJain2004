@@ -2,6 +2,8 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="500" />
 </div>
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
@@ -13,16 +15,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, writing clean & efficient code and continuously learning.
+I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights and continuously learning.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
 
-- 🎓 **Pursuing:** Currently, I'm a 3rd-year undergraduate pursuing my Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
+- 🎓 **Pursuing:** Currently, I'm a 3rd-year undergraduate pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence and Machine Learning (AIML)
 - 🌱 **Currently learning:** Statistics, Deep Learning & Data Structures and Algorithms (DSA). 
-- 💼 **Working on:** Machine Learning Full Stack Project.
+- 💼 **Working on:** Machine Learning Full Stack Projects.
 - 📫 **How to reach me:**  Email at: **Amulya.122439@stu.upes.ac.in, [Linked In](https://www.linkedin.com/in/amulya-jain04/)**, **[Portfolio](https://amulyajain2004.github.io/)**.
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
