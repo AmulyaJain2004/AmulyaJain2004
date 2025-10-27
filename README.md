@@ -2,8 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="500" />
 </div>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
@@ -12,7 +10,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG">     
     </h1>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -30,7 +27,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 - 💼 **Working on:** Machine Learning Full Stack Projects.
 - 📫 **How to reach me:**  Email at: **Amulya.122439@stu.upes.ac.in, [Linked In](https://www.linkedin.com/in/amulya-jain04/)**, **[Portfolio](https://amulyajain2004.github.io/)**.
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
