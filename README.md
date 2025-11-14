@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
-
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"style="width:32px">
     <h1>
@@ -147,7 +146,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width: 80px"/><p>Django REST Framework</p></td>
         <td><img src="https://skillicons.dev/icons?i=fastapi"><p>FastAPI</p></td>
     </tr>
-    <!-- Databases -->
+    <!-- Databases  -->
     <tr>
         <td rowspan="2"><b>Databases</b></td>
         <td>Relational Databases</td>
