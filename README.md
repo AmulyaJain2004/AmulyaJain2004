@@ -18,7 +18,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ### 🚀 About Me
 
 - 🎓 **Pursuing:** Currently, a 3rd-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
@@ -238,6 +237,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 - 🏅 **Top Repositories:**  
 
   #### Projects
+
 
   - [Multimodal Product Price Prediction](https://github.com/AmulyaJain2004/Amazon-ML-Challenge-2025) - *Multimodal Deep Learning Model combining Bi-LSTM + Attention for text and ResNet
  embeddings for images to effectively predict E-Commerce Products prices.*
