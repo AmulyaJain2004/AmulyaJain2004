@@ -135,7 +135,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     </tr>
     <tr>
         <td>Styling Frameworks</td>
-        <td><img src="https://skillicons.dev/icons?i=tailwind"><p>Tailwind</p></td>
+        <td><img src="https://skillicons.dev/icons?i=tailwind"><p>Tailwind CSS</p></td>
         <td><img src="https://skillicons.dev/icons?i=bootstrap"><p>Bootstrap</p></td>
     </tr>
     <tr>
