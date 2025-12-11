@@ -260,8 +260,8 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
   #### Programming Languages and Frameworks Learnings
 
-  - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*
-  - [CUniverse-Exploring-C-Cosmos](https://github.com/AmulyaJain2004/CUniverse-Exploring-C-Cosmos) - *Repository of Cool C Programming*
+  - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*.
+  - [CUniverse-Exploring-C-Cosmos](https://github.com/AmulyaJain2004/CUniverse-Exploring-C-Cosmos) - *Repository of Cool C Programming*.
   - [InfinityShellWizards-Journey-to-Bash-Shell-Scripting](https://github.com/AmulyaJain2004/InfinityShellWizards-Journey-to-Bash-Shell-Scripting) - *Linux Bash Shell Scripting repository to learn and explore*
   - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming*
   <!-- - [CppCodeCrafters-Lets-Innovate](https://github.com/AmulyaJain2004/CppCodeCrafters-Lets-Innovate) - *Repository of Cool Cpp Programming*
