@@ -4,13 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
-
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"style="width:32px">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG">     
     </h1>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
