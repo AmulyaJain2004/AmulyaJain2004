@@ -12,6 +12,9 @@
 </div>
 
 
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights and continuously learning.
