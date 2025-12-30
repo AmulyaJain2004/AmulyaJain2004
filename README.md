@@ -2,7 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600" />
 </div>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
@@ -14,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights and continuously learning.
+I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights and continuously learning.   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
