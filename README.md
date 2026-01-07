@@ -314,6 +314,8 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
    <p align="center"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  </p>
 
+   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2281351" style='border:none;'></iframe> 
+
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
   - IBM Professional DataSceince Skill Badges
