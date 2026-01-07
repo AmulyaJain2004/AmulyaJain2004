@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
-<!-- <div align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"style="width:32px">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG">     
     </h1>
-</div> -->
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -238,7 +238,6 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
   #### Projects
 
-
   - [Multimodal Product Price Prediction](https://github.com/AmulyaJain2004/Amazon-ML-Challenge-2025) - *Multimodal Deep Learning Model combining Bi-LSTM + Attention for text and ResNet
  embeddings for images to effectively predict E-Commerce Products prices.*
   - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack & Deployed*  
@@ -248,7 +247,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
   - [HousePricePrediction](https://github.com/AmulyaJain2004/HousePricePrediction) - *Machine Learning Project Predicting House Prices using Linear Regression*
   - [TaskManagementSystem](https://github.com/AmulyaJain2004/TaskManagementSystem) - *Full Stack Task Alloting and Management application MERN stack & Deployed*
   - [Amulya-UPES-website](https://github.com/AmulyaJain2004/Amulya-UPES-website) - *Redesign of Homepage of UPES website*
-  <!-- - [AmulyaJain2004.github.io](https://github.com/AmulyaJain2004/AmulyaJain2004.github.io) - *My Portfolio Website* -->
+  - [AmulyaJain2004.github.io](https://github.com/AmulyaJain2004/AmulyaJain2004.github.io) - *My Portfolio Website*
 
   #### Open Source Contributions
 
@@ -259,18 +258,19 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
   - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*.
   - [CUniverse-Exploring-C-Cosmos](https://github.com/AmulyaJain2004/CUniverse-Exploring-C-Cosmos) - *Repository of Cool C Programming*.
+  - [CppCodeCrafters-Lets-Innovate](https://github.com/AmulyaJain2004/CppCodeCrafters-Lets-Innovate) - *Repository of Cool Cpp Programming*
   - [InfinityShellWizards-Journey-to-Bash-Shell-Scripting](https://github.com/AmulyaJain2004/InfinityShellWizards-Journey-to-Bash-Shell-Scripting) - *Linux Bash Shell Scripting repository to learn and explore*
   - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming*
-  <!-- - [CppCodeCrafters-Lets-Innovate](https://github.com/AmulyaJain2004/CppCodeCrafters-Lets-Innovate) - *Repository of Cool Cpp Programming*
-  - [LetsGo](https://github.com/AmulyaJain2004/LetsGo) - *Repository of Cool Go Programming*
+  <!-- - [LetsGo](https://github.com/AmulyaJain2004/LetsGo) - *Repository of Cool Go Programming*
   - [Learning-useR](https://github.com/AmulyaJain2004/Learning-useR) - *Repository of Cool R Programming*
   - [SQLyticsSphere](https://github.com/AmulyaJain2004/SQLyticsSphere) - *Repository of Cool SQL, NoSQL Databases* -->
   <!-- - [Advanced-Python](https://github.com/AmulyaJain2004/Advanced-Python) - *Repository of Cool Django Framework Learning* -->
 
   #### Problem Solving
-
+  
   - [The_Art_of_Leetcoding](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding) - *Repository collection of my LeetCode Problem Solving*
   - [GeeksforGeeksDSA](https://github.com/AmulyaJain2004/GeeksforGeeksDSA) - *Repository collection of my GeeksForGeeks Problem Solving*
+  - [Competitive-Programming-Playground](https://github.com/AmulyaJain2004/Competitive-Programming-Playground) - *Repository collection of my Codeforces Problem Solving*
 
 - 🌟 **Achievements:**  
   - Open Source Achievement: GSSOC(24) Extd Badges 🪶
@@ -314,8 +314,8 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
    <p align="center"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  </p>
 
-   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2281351" style='border:none;'></iframe> 
-
+   <img src="https://tryhackme-badges.s3.amazonaws.com/jainamulyawin.png" alt="Your Image Badge" />
+   
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
   - IBM Professional DataSceince Skill Badges
