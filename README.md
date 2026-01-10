@@ -2,9 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600" />
 </div>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
@@ -317,7 +314,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
    <p align="center"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Amulya_89-curious?theme=dark&font=Nunito&ext=heatmap" />  </p>
 
-   <img src="https://tryhackme-badges.s3.amazonaws.com/jainamulyawin.png" alt="Your Image Badge" />
+   <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/jainamulyawin.png" alt="Your Image Badge" /> -->
    
   <!--
   - [Credly Skills and Badges Wallet](https://www.credly.com/users/amulya-jain.6f99407b) 
