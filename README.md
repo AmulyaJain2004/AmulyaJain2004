@@ -13,15 +13,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights & continuously learning.   
-
+I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about transforming innovative ideas into creative solutions, transforming business problems into actionable insights & continuously learning.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
 
 - 🎓 **Pursuing:** Currently, a 3rd-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
-- 👨‍💻 **Specialization:** in Artificial Intelligence and Machine Learning (AIML)
+- 👨‍💻 **Specialization:** in Artificial Intelligence and Machine Learning (AIML).
 - 🌱 **Currently learning:** Statistics, Deep Learning & Data Structures and Algorithms (DSA). 
 - 💼 **Working on:** End-to-End Machine Learning Full Stack Projects & Finetuning LLMs.
 - 📫 **How to reach me:**  Email at: **Amulya.122439@stu.upes.ac.in, [Linked In](https://www.linkedin.com/in/amulya-jain04/)**, **[Portfolio](https://amulyajain2004.github.io/)**.
