@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/AI-Technology-Creation-Concept.gif" height="600" />
+  <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
@@ -261,7 +260,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
   - [PyInsightHub](https://github.com/AmulyaJain2004/PyInsightHub) - *Repository of Cool Python Programming*.
   - [CUniverse-Exploring-C-Cosmos](https://github.com/AmulyaJain2004/CUniverse-Exploring-C-Cosmos) - *Repository of Cool C Programming*.
   - [CppCodeCrafters-Lets-Innovate](https://github.com/AmulyaJain2004/CppCodeCrafters-Lets-Innovate) - *Repository of Cool Cpp Programming*
-  - [InfinityShellWizards-Journey-to-Bash-Shell-Scripting](https://github.com/AmulyaJain2004/InfinityShellWizards-Journey-to-Bash-Shell-Scripting) - *Linux Bash Shell Scripting repository to learn and explore*
+  - [InfinityShellWizards-Journey-to-Bash-Shell-Scripting](https://github.com/AmulyaJain2004/InfinityShellWizards-Journey-to-Bash-Shell-Scripting) - *Linux Bash Shell Scripting repository to learn and explore linux and bash scripting.*
   - [JavaUltimateUnite](https://github.com/AmulyaJain2004/JavaUltimateUnite) - *Repository of Cool Java Programming*
   <!-- - [LetsGo](https://github.com/AmulyaJain2004/LetsGo) - *Repository of Cool Go Programming*
   - [Learning-useR](https://github.com/AmulyaJain2004/Learning-useR) - *Repository of Cool R Programming*
