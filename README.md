@@ -177,7 +177,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" style="width:50px"/><p>Plotly</p></td>
         <!-- <td>Dash</td> -->
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width:50px"/><p>Matplotlib</p></td>
-        <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" alt="seabon logo"/><p>Seaborn</p></td> -->
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="35" alt="seabon logo"/><p>Seaborn</p></td>
     </tr>
     <tr>
         <td>Scientific Computing and Other Libraries</td>
