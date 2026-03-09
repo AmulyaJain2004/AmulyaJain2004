@@ -68,7 +68,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
     <td align="center">
       <a href="https://www.codechef.com/users/alokik_engg_89" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30"><br>
-        <b>CodeChef</b>
+        <b>CodeChef </b>
       </a>
     </td>
     <td align="center">
