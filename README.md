@@ -1,10 +1,6 @@
 <!-- 
-
 Need to update the readme 
-
 -->
-
-
 
 <div align="center">
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
