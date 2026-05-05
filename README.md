@@ -115,7 +115,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <td></td>
         <td><a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c"><p>C</p></a></td>
         <td><a href="https://en.cppreference.com/w/cpp/language.html" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"><p>C++</p></a></td>
-        <td><a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java"><p>Java</p></td>
+        <!-- <td><a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java"><p>Java</p></td> -->
         <td><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"><p>Python</p></td>
         <td><a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript"><p>JavaScript</p></td>
     </tr>
