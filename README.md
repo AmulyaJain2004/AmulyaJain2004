@@ -2,8 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=onedark)](https://github.com/amulyajain2004/github-profile-trophy)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
@@ -344,13 +342,13 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="amulyajain2004" /></p>
 
 <table>
-    <!-- <tr>
-        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
-    </tr> -->
     <tr>
-        <!-- <td>
+        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
+    </tr>
+    <tr>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" />
-        </td> -->
+        </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
         </td>
