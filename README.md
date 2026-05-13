@@ -2,6 +2,8 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amulyajain2004&theme=onedark)](https://github.com/amulyajain2004/github-profile-trophy)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Aspiring+Machine+Learning+Engineer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
