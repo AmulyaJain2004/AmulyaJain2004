@@ -346,9 +346,9 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
     </tr>
     <tr>
-        <td>
+        <!-- <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" />
-        </td>
+        </td> -->
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
         </td>
