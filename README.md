@@ -21,7 +21,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 ### 🚀 About Me
 
 
-- 🎓 **Pursuing:** Currently, a 3rd-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
+- 🎓 **Pursuing:** Currently, a final-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence & Machine Learning (AIML).
 - 🌱 **Currently learning:** Natural Language Processing and Voice AI Architectures. 
 - 💼 **Working on:** End-to-End Machine Learning Full Stack Projects & Finetuning LLMs.
