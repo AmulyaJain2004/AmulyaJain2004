@@ -2,9 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Machine+Learning+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 <div align="center">
@@ -13,7 +10,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=This+is..;..my+GitHub..;" alt="Typing SVG">     
     </h1>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -24,13 +20,12 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 ### 🚀 About Me
 
 
-- 🎓 **Pursuing:** Currently, a final-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
+- 🎓 **Pursuing:** Currently, a Final-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence & Machine Learning (AIML).
 - 🌱 **Currently learning:** Natural Language Processing (NLP) and Voice AI Architectures. 
 - 💼 **Working on:** End-to-End Machine Learning Full Stack Projects & Finetuning LLMs.
 - 📫 **How to reach me:**  Email at: **Amulya.122439@stu.upes.ac.in, [Linked In](https://www.linkedin.com/in/amulya-jain04/)**, **[Portfolio](https://amulyajain2004.github.io/)**.
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -56,18 +51,18 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <b>Instagram</b>
       </a>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://hashnode.com/@alokik89" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30"><br>
         <b>Hashnode</b>
       </a>
-    </td>
-    <td align="center">
+    </td> -->
+    <!-- <td align="center">
       <a href="https://www.youtube.com/channel/UCBhplGqDR5MGrGmqoV_RR2Q" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30"><br>
         <b>YouTube</b>
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://www.codechef.com/users/alokik_engg_89" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30"><br>
@@ -92,12 +87,12 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <b>GFG</b>
       </a>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://www.topcoder.com/members/amulya[2004]" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="30"><br>
         <b>TopCoder</b>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
