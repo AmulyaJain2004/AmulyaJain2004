@@ -23,7 +23,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 - 🎓 **Pursuing:** Currently, a Final-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence & Machine Learning (AIML).
 - 🌱 **Currently learning:** Natural Language Processing (NLP) and Voice AI Architectures. 
-- 💼 **Working on:** End-to-End Machine Learning Full Stack Projects & Finetuning LLMs and Virtual Machines.
+- 💼 **Working on:** End-to-End AI Full Stack Projects & Finetuning LLMs and Virtual Machines Provisioning and its Management.
 - 📫 **How to reach me:**  Email at: **Amulya.122439@stu.upes.ac.in, [Linked In](https://www.linkedin.com/in/amulya-jain04/)**, **[Portfolio](https://amulyajain2004.github.io/)**.
 - ⚡ Fun fact: **I'm not just a code enthusiast, but I'm also a chess player🤴, an academic all-star 📚, and an astronomy freak 🔭. When I'm not coding, you'll often find me exploring the fascinating world of astronomy and astrophysics 🚀 through books and internet or sharing a laugh with friends over a game of chess ♟.**
 
