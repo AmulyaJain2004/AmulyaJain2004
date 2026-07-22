@@ -2,6 +2,7 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Machine+Learning+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 <div align="center">
@@ -236,6 +237,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 ### 🏆 Highlights
   <!-- I have to write about by OS contributions forks and other future projects and uncomment as I complete the incomplete -->
+
 - 🏅 **Top Repositories:**  
 
   #### Projects
