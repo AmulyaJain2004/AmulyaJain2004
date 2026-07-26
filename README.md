@@ -2,9 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Machine+Learning+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 <div align="center">
@@ -23,7 +20,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 ### 🚀 About Me
 
 
-- 🎓 **Pursuing:** Currently, a Final-year Undergraduate student pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
+- 🎓 **Pursuing:** Currently, a Final-year Undergraduate pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at the <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies (UPES)</a>, Dehradun, Uttarakhand, India.
 - 👨‍💻 **Specialization:** in Artificial Intelligence & Machine Learning (AIML).
 - 🌱 **Currently learning:** Natural Language Processing (NLP) and Voice AI Architectures. 
 - 💼 **Working on:** End-to-End AI Full Stack Projects & Finetuning LLMs and Virtual Machines Provisioning and its Management.
