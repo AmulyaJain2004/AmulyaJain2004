@@ -243,6 +243,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
   #### Projects
 
+  - [AI Voice agents for phone calls]
   - [Multimodal Product Price Prediction](https://github.com/AmulyaJain2004/Amazon-ML-Challenge-2025) - *Multimodal Deep Learning Model combining Bi-LSTM + Attention for text and ResNet
  embeddings for images to effectively predict E-Commerce Products prices.*
   - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack & Deployed*  
