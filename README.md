@@ -344,7 +344,12 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 <table>
     <tr>
-        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a> </p>
+        <p align="center"> 
+          <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyajain2004&row=3&column=3" alt="amulyajain2004" /></a>  -->
+          <a href="https://gitroll.io/profile/urLsMX0bunNQddfhDQd3ViJJyA5q1" target="_blank">
+            <img src="https://gitroll.io/api/badges/profiles/v1/urLsMX0bunNQddfhDQd3ViJJyA5q1?theme=dark" alt="GitRoll Profile Badge" height="250"/>
+          </a>
+        </p>
     </tr>
     <tr>
         <!-- <td>
@@ -358,13 +363,13 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
 [![Amulya Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyajain2004&theme=redical)](https://github.com/amulyajain2004/github-readme-activity-graph)
 
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<a href="https://app.daily.dev/amulyajain"><img src="./devcard.png" width="280" alt="Amulya Jain's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/amulyajain"><img src="./devcard.png" width="280" alt="Amulya Jain's Dev Card"/></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <br clear="both">
 
