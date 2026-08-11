@@ -243,7 +243,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
 
   #### Projects
 
-  - [AI Voice Agent for Intelligent Call Delegation and Context-Aware Call Handling for Android](https://github.com/Call-AI-Engine/AI-Voice-Calling-Assistant) - *A production-grade prototype for handling real phone calls with a fully local AI pipeline. No cloud AI APIs (OpenAI/Anthropic) are used for the core logic, ensuring 100% privacy and zero per-call costs for inference*
+  - [AI Voice Agent for Intelligent Call Delegation and Context-Aware Call Handling for Android](https://github.com/Call-AI-Engine/AI-Voice-Calling-Assistant) - *A production-grade prototype for handling real phone calls with a fully local AI pipeline. No cloud AI APIs (OpenAI/Anthropic) are used for the core logic, ensuring 100% privacy and zero per-call costs for inference.*
   - [Multimodal Product Price Prediction](https://github.com/AmulyaJain2004/Amazon-ML-Challenge-2025) - *Multimodal Deep Learning Model combining Bi-LSTM + Attention for text and ResNet embeddings for images to effectively predict E-Commerce Products prices.*
   - [CtrlX Error](https://github.com/AmulyaJain2004/CtrlX_Error) - *Collaborative Bug Tracking System for Software Teams using MERN stack & Deployed*  
   - [Notes-app](https://github.com/AmulyaJain2004/Notes-app) - *Full Stack Note Taking App using Django, Django REST Framework & ReactJS*
