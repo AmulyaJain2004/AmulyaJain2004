@@ -355,9 +355,9 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
         <!-- <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amulyajain2004&show_icons=true&locale=en&layout=compact" alt="amulyajain2004" />
         </td> -->
-        <td>
+        <!-- <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyajain2004" alt="amulyajain2004" />
-        </td>
+        </td> -->
     </tr>
 </table>
 
