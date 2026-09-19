@@ -297,7 +297,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
                 Total Score: 1025<br>
                 </span>
             </td>
-            <td>
+            <!-- <td>
                 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
                 <a href="https://gssoc.girlscript.tech/leaderboard">
                     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -309,7 +309,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
                     <img src="assets/Hack-Web3Conf_2024_Badge.png" width="100px" height="100px" />
                 </a>
                 </div>
-            </td>
+            </td> -->
         </tr>
     </table>
   - Open Source Badges
