@@ -2,7 +2,6 @@
   <img src="assets/AI-Technology-Creation-Concept.gif" height="600"/>
 </div>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Amulya+Jain;Machine+Learning+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
 <div align="center">
@@ -47,7 +46,7 @@ I'm a Machine Learning Engineer and Full-Stack Web Developer passionate about tr
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/amulyajain89/" target="_blank">
+      <a href="https://www.instagram.com/amulyajain89/"  target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"><br>
         <b>Instagram</b>
       </a>
